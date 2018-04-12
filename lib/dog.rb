@@ -1,7 +1,7 @@
 # Your code goes here!
 class Dog
   def name=(dog_name)
-    @name
+    @name=dog_name
   end
   
   def name
@@ -9,7 +9,7 @@ class Dog
   end
   
   def bark=(dog_bark)
-    @bark
+    @bark=dog_bark
   end
   
   def bark
